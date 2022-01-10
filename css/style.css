@@ -151,8 +151,9 @@ a{
 
 .title-college{
     text-align: center;
-    width: 100%;
+    width: 80%;
     height: 150px;
+    margin: 0 auto;
 }
 .etiquetas{
     width: 100%;

@@ -1,0 +1,233 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    height: 350px;
+}
+.nav-top{
+    width: 95%;
+    height: 60px;
+    
+    margin: 5px auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+.ministerio{
+    width:215px;
+    margin-right: 5px;
+}
+.emblema{
+    width: 50px;
+    margin-right: 5px;
+}
+.ugel{
+    width:50px;
+}
+#contentItemsCarrusel{
+    height: 270px;
+    overflow: hidden;
+}
+.item-emblema{
+    width: 50%;
+    height: 100%;
+    background-image: url(/imagenes/imagen0.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.itemCarrusel{
+    height: 100%;
+    position: relative;
+    display: flex;
+    text-align: center;
+}
+.tarjetaCarrusel{
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    
+    
+}
+
+.flechasCarrusel{
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+}
+#tarjeta1{
+    width:100%;
+    height: 100%;
+    background-image: url(/imagenes/imagen1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#tarjeta2{
+    width:50%;
+    height: 100%;
+    background-image: url(/imagenes/imagen2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0 33px;
+}
+#tarjeta3{
+    width:50%;
+    height: 70%;
+    background-image: url(/imagenes/imagen3.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0 33px ;
+}
+#tarjeta4{
+    width:50%;
+    height: 100%;
+    background-image: url(/imagenes/imagen4.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0 40px ;
+}
+#tarjeta5{
+    width:100%;
+    height: 100%;
+    background-image: url(/imagenes/imagen5.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0 38px ;
+}
+#tarjeta6{
+    width:100%;
+    height: 100%;
+    background-image: url(/imagenes/imagen6.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0 40px ;
+}
+#tarjeta7{
+    width:100%;
+    height: 100%;
+    background-image: url(/imagenes/imagen7.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0 35px ;
+}
+#tarjeta8{
+    width:100%;
+    height: 100%;
+    background-image: url(/imagenes/imagen8.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0 40px ;
+}
+#tarjeta9{
+    width:100%;
+    height: 100%;
+    background-image: url(/imagenes/imagen9.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center ;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.tarjeta-texto{
+    position: absolute;
+    bottom: 30px;
+}
+.texto5{
+    bottom: 9px;
+}
+
+.title-college{
+    text-align: center;
+    width: 100%;
+    height: 150px;
+}
+.etiquetas{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.etiquetas ul{
+    width: 90%;
+    display: block;
+    
+    
+    
+}
+.etiquetas-primarias{
+    width: 100%;
+    height: 50px;
+    list-style: none;
+    margin-top: 10px;
+}
+.etiquetas-primarias ul{
+    width: 50%;
+    float: right;
+}
+.etiquetas-primarias a {
+    width: 160px;
+    height: 50px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    float: left;
+    
+}
+.sub-etiquetas{
+    list-style: none;
+}
+.sub-etiquetas a{
+    position: relative;
+    display: none;
+    width: 150px;
+    height: 40px;   
+}
+
+.etiquetas li a:hover {
+    background: gray;
+
+}
+.etiquetas li:hover > ul .sub-etiquetas a{
+    display: flex;
+    float: right;
+    margin: 10px 0;
+    
+    
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+footer a{
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 20%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer a:hover{
+    background: grey;
+}
+
+

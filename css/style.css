@@ -35,7 +35,7 @@ nav{
 .item-emblema{
     width: 50%;
     height: 100%;
-    background-image: url(/imagenes/imagen0.jpg);
+    background-image: url(/imagenes/emblema.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -68,7 +68,7 @@ nav{
 #tarjeta1{
     width:100%;
     height: 100%;
-    background-image: url(/imagenes/imagen1.jpg);
+    background-image: url(/imagenes/imagenb.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -76,7 +76,7 @@ nav{
 #tarjeta2{
     width:50%;
     height: 100%;
-    background-image: url(/imagenes/imagen2.jpg);
+    background-image: url(/imagenes/imagenc.jpg );
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 0 33px;
@@ -84,7 +84,7 @@ nav{
 #tarjeta3{
     width:50%;
     height: 70%;
-    background-image: url(/imagenes/imagen3.jpg);
+    background-image: url(/imagenes/imagend.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 0 33px ;
@@ -92,7 +92,7 @@ nav{
 #tarjeta4{
     width:50%;
     height: 100%;
-    background-image: url(/imagenes/imagen4.jpg);
+    background-image: url(/imagenes/imagene.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 0 40px ;
@@ -100,7 +100,7 @@ nav{
 #tarjeta5{
     width:100%;
     height: 100%;
-    background-image: url(/imagenes/imagen5.jpg);
+    background-image: url(/imagenes/imagenf.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 0 38px ;
@@ -108,7 +108,7 @@ nav{
 #tarjeta6{
     width:100%;
     height: 100%;
-    background-image: url(/imagenes/imagen6.jpg);
+    background-image: url(/imagenes/imageng.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 0 40px ;
@@ -116,7 +116,7 @@ nav{
 #tarjeta7{
     width:100%;
     height: 100%;
-    background-image: url(/imagenes/imagen7.jpg);
+    background-image: url(/imagenes/imagenh.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 0 35px ;
@@ -124,7 +124,7 @@ nav{
 #tarjeta8{
     width:100%;
     height: 100%;
-    background-image: url(/imagenes/imagen8.jpg);
+    background-image: url(/imagenes/imageni.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 0 40px ;
@@ -132,7 +132,7 @@ nav{
 #tarjeta9{
     width:100%;
     height: 100%;
-    background-image: url(/imagenes/imagen9.jpg);
+    background-image: url(/imagenes/imagenj.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center ;

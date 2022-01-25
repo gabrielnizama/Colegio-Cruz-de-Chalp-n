@@ -152,7 +152,7 @@ a{
 .title-college{
     text-align: center;
     width: 90%;
-    height: 150px;
+    height: auto;
     margin: 0 auto;
 }
 .etiquetas{
